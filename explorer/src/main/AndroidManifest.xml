@@ -10,9 +10,6 @@
     <!-- we need internet permission for bug reports -->
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <!-- this is for superuser -->
-    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
-
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"

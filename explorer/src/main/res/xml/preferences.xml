@@ -54,10 +54,7 @@
             android:title="@string/error_reports" />
     </PreferenceCategory>
 
-    <PreferenceScreen android:title="@string/xdaforum">
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="http://forum.xda-developers.com/showthread.php?t=2330864" />
+    <PreferenceScreen android:title="">
     </PreferenceScreen>
 
 </PreferenceScreen>
